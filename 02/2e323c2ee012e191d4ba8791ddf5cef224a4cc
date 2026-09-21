@@ -1,0 +1,20 @@
+src/content/docs/r2-data-catalog/deleting-data.mdx
+  s_275720bda1d6db::t_db75bd046bee22 95-132
+  s_275720bda1d6db::t_c206077d6d5dd8 233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "022e323c2ee012e191d4ba8791ddf5cef224a4cc",
+  "prompts": {},
+  "sessions": {
+    "s_275720bda1d6db": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3b61ba46ffeRackh67FtQLoY3",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "Adam Gaddis <adamtyler@cloudflare.com>"
+    }
+  }
+}
