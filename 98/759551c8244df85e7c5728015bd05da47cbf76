@@ -1,0 +1,49 @@
+src/content/docs/basin/platform/index.mdx
+  s_d805e1793dd979::t_201c0685fa3497 21
+src/content/docs/basin-catalog/reference/iceberg-rest-api.mdx
+  s_d805e1793dd979::t_ed32918d1e6d49 1-16,18-32,35,37-43,48-50,59-61,76-82,89-93,103-108,112,115-117,121-128,133-135,144-154,156
+  s_d805e1793dd979::t_6d37cd91fabb27 17
+  s_d805e1793dd979::t_cd3b33732a4244 155,157
+  s_d805e1793dd979::t_84216322a88b7a 33-34,36,44-47,51-58,62-75,83-88,94-102,109-111,113-114,118-120,129-132,136-143
+src/content/docs/basin-catalog/deleting-data.mdx
+  s_d805e1793dd979::t_6ab150842527f1 21,90,94-95,100,103-104,106,109-122,124-129,228
+  s_d805e1793dd979::t_10cfc0d1281e83 20,123
+src/content/docs/basin-catalog/table-maintenance.mdx
+  s_d805e1793dd979::t_6d37cd91fabb27 121
+  s_d805e1793dd979::t_d4f4107e1d0764 34-50,56,63-84
+  s_d805e1793dd979::t_783f3a33f26966 150-152,196,222-223,227-236,284,286-288
+  s_d805e1793dd979::t_4c4456696fcf98 28,30-33,85-88,90,92-98,101-107,110-117,119-120,122-136
+src/content/docs/basin-catalog/reference/index.mdx
+  s_d805e1793dd979::t_011973818095d2 1-15
+src/content/docs/basin-catalog/reference/table-properties.mdx
+  s_d805e1793dd979::t_690105c81fd1f8 90
+  s_d805e1793dd979::t_be5928662a70dd 1-29,34-89,91-105
+  s_d805e1793dd979::t_84216322a88b7a 30-33
+src/content/docs/basin-catalog/platform/limits.mdx
+  s_d805e1793dd979::t_84216322a88b7a 13-17,25-31,39-43,51-56,64-71
+  s_d805e1793dd979::t_22eaaed15c4b2a 1-12,18-24,32-38,44-50,57-63,72-75
+src/content/docs/basin-catalog/platform/index.mdx
+  s_d805e1793dd979::t_e82fe1d410165b 3
+src/content/docs/basin-catalog/index.mdx
+  s_d805e1793dd979::t_654f6ecfe6a187 14
+src/content/docs/basin-catalog/manage-catalogs.mdx
+  s_d805e1793dd979::t_80e3472dffea28 26,28,59-62,66-67,74-77,85-87,99-142,160-162,165-166,168,194-195,202,216-217,248-251,261-263,266-267,308-309,334-367,468-470
+src/content/partials/workers/wrangler-commands/r2.mdx
+  s_d805e1793dd979::t_f6bb34e2947474 93,98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "98759551c8244df85e7c5728015bd05da47cbf76",
+  "prompts": {},
+  "sessions": {
+    "s_d805e1793dd979": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6cbd94b7-fc89-4808-b4e2-bdfdc2e5df10",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Adam Gaddis <adamtyler@cloudflare.com>"
+    }
+  }
+}
